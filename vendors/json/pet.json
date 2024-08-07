@@ -1,0 +1,18 @@
+{
+    "id": 133211201,
+    "category": {
+        "id": 1,
+        "name": "dog"
+    },
+    "name": "Pluto",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "vacinado"
+        }
+    ],
+    "status": "available"
+}
