@@ -18,7 +18,8 @@ describe('API PetStore Swagger - Entidade Pet', () => {
 
         // Funcções de Test em Si
 
-
     })//Final do Post Pet
 
-})// Termina a describe
+})// Termina a describe 
+
+//Testes novo commit
