@@ -1,0 +1,20 @@
+[
+    {
+      "nomePet": "Bolt",
+      "idPet": 133211202,
+      "nomeCategoria": "Dog",
+      "idCategoria": 1
+    },
+    {
+      "nomePet": "Spike",
+      "idPet": 133211203,
+      "nomeCategoria": "Dog",
+      "idCategoria": 1
+    },
+    {
+      "nomePet": "Bichento",
+      "idPet": 133211204,
+      "nomeCategoria": "Cat",
+      "idCategoria": 2
+    }
+  ]
